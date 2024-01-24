@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
 .arrow_down {
   color: white;
-  transition: 0.72s;
+  transition: 0.64s;
 }
 .arrow_down:hover {
   color: rgb(199, 199, 199);
